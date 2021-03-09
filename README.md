@@ -1,5 +1,4 @@
-# Group-00
-Group 00 - Sample repository for managing Senior Design Project
+
 ![image](https://user-images.githubusercontent.com/44206343/110445059-f1f38080-80e7-11eb-94ed-89b8948dd098.png)
  
                                              North South University
@@ -34,8 +33,11 @@ Below are the tentative features,
 2.	In these features there would be  some sub features to support the idea over here.like under the cow farm there would be sub features like level,rating,review,farm photo,available time,price,providing area,about farm and location.it would create a profile for the cow farm owner.it will boost the confidence among buyers and one of the most important aspect of going digital is transparency which would meet its goal.
 3.	The next feature would consist of normal user and bulk user.It would have some sub feature as well like rating, review,location,photo.
 4.	One of the important feature is going to be the farm sharing one where the investor can find their farm holders with low capitals and experience.By investing here they can get the benefit as well like sharing profit.The main idea would be to enhance production.so through this we can penetrate through the ground level as well.There will be some sub features like farm level,rating ,review,location,farm size,farm photo,number of cow etc.
+
 5.Milk product is another feature for the user of this website from which he or she can order their expected product.the farms can put their dairy products for selling as well over here.There would be some feature like which farm product,product review,price,price,avilibility.
+
 6.Animal doctor would be another feature where it would  have some sub feature to ensure the safety of the animals.it would have sub features like level,rating,review,photo,certified,experience,available time,service charge,service providing area etc.
+
 7.cow food seller is another feature under which there would be some sub feature like level,rating,review,photo,food photo,food price,food expire date,food supply area etc.
 
 
