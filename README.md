@@ -1,5 +1,5 @@
 
-                               ![image](https://user-images.githubusercontent.com/44206343/110445059-f1f38080-80e7-11eb-94ed-89b8948dd098.png)
+                      ![image](https://user-images.githubusercontent.com/44206343/110445059-f1f38080-80e7-11eb-94ed-89b8948dd098.png)
  
                                              North South University
                                Department of Electrical & Computer Engineering
