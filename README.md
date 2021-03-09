@@ -2,28 +2,28 @@
 Group 00 - Sample repository for managing Senior Design Project
 ![image](https://user-images.githubusercontent.com/44206343/110445059-f1f38080-80e7-11eb-94ed-89b8948dd098.png)
  
-North South University
-Department of Electrical & Computer Engineering
-Project Proposal
-Group No: 02
-Spring 2021
-Project Name: Milk Basket
-Course No: CSE 499 Sec: 18
-Faculty: Shaikh Shawon Arefin Shimon (Sas3)
-Member 1:
-Name: Riaz Rahman rafi
-ID:  1620590042
-Email: riaz.rafi@northsouth.edu
-Member 2:
-Name: Shirajul Islam Shadhin
-ID:  1620701042
-Email: shirajul.shadhin@northsouth.edu
-Member 3:
-Name: Shahed Ahmed
-ID:  1420308642
-Email: shahed.ahmed@northsouth.edu
-Git Repository: https://github.com/NSU-SP21-CSE499-18/Group-02
-Date Submitted: 09/03/21
+                                             North South University
+                               Department of Electrical & Computer Engineering
+                                             Project Proposal
+                                              Group No: 02
+                                               Spring 2021
+                                       Project Name: Milk Basket
+                                       Course No: CSE 499 Sec: 18
+                               Faculty: Shaikh Shawon Arefin Shimon (Sas3)
+                                      Member 1:
+                                      Name: Riaz Rahman rafi
+                                      ID:  1620590042
+                                      Email: riaz.rafi@northsouth.edu
+                                      Member 2:
+                                      Name: Shirajul Islam Shadhin
+                                      ID:  1620701042
+                                      Email: shirajul.shadhin@northsouth.edu
+                                      Member 3:
+                                      Name: Shahed Ahmed
+                                      ID:  1420308642
+                                      Email: shahed.ahmed@northsouth.edu
+                                      Git Repository: https://github.com/NSU-SP21-CSE499-18/Group-02
+                                      Date Submitted: 09/03/21
 
 
 INTRODUCTION
