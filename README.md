@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/44206343/110445059-f1f38080-80e7-11eb-94ed-89b8948dd098.png)
+                               ![image](https://user-images.githubusercontent.com/44206343/110445059-f1f38080-80e7-11eb-94ed-89b8948dd098.png)
  
                                              North South University
                                Department of Electrical & Computer Engineering
@@ -57,6 +57,8 @@ SOCIAL BENEFITS
 
 PLANS FOR MONETIZATION
 We will mainly follow two types of monetization strategy,
+
 Freemium: The freemium strategy is considered to be the most effective way to monetize this web site. This website will be provided to the users as a freemium version, and it will be completely free to use. We are going to make the money by taking some commission from the farm sharing user from both side.There will be advertisement as well.
+
 Premium: Through premium strategy  the user can get the reach of most of the people.it will be like linked in strategy.if you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then.
 
