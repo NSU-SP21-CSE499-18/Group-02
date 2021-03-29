@@ -6,7 +6,8 @@
 
                      
    <p align="center">
-  <img width="460" height="300" src=https://seeklogo.com/images/N/north-south-university-logo-0CA3A4611D-seeklogo.com.png/460/300">
+  <img width="460" height="300" src=![image](https://user-images.githubusercontent.com/44206343/112886909-5d7fab00-90f4-11eb-95ea-89572a51aaed.png)
+https://seeklogo.com/images/N/north-south-university-logo-0CA3A4611D-seeklogo.com.png/460/300">
 </p>
 
 
