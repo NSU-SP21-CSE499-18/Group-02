@@ -108,4 +108,4 @@ For Mobile App: Dart, Flutter, Firebase.
   
   Freemium: The freemium strategy is considered to be the most effective way to monetize this website and app. This website and app will be provided to the users as a freemium version, and it will be completely free to use. We are going to make the money by taking some commission from the farm sharing user from both sides. There will be advertisement as well. 
   
-  Premium: Through premium strategy the user can get the reach of most of the people. It will be like linked in strategy. If you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then.
+  Premium: Through premium strategy the user can get the reach of most of the people. It will be like linked in strategy. If you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then. 
