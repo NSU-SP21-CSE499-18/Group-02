@@ -1,7 +1,25 @@
 # Group-02
 
-**project proposal**
-North South University Department of Electrical & Computer Engineering Project Proposal Group No: 02 Spring 2021 Project Name: Milk Basket Course No: CSE 499 Sec: 18 Faculty: Shaikh Shawon Arefin Shimon (Sas3)
+**project proposal**  
+
+North South University Department of Electrical & Computer Engineering
+
+
+
+Project Proposal 
+
+Group No: 02 
+
+Spring 2021 
+
+Project Name: Milk Basket 
+
+Course No: CSE 499
+
+Sec: 18 
+
+Faculty: Shaikh Shawon Arefin Shimon (Sas3)
+
 Name
 ID
 Email
