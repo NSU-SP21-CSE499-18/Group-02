@@ -53,6 +53,8 @@ Date Submitted: 10/03/21
 
 
 INTRODUCTION
+
+
 Milk Basket is a startup-based idea which is a platform for different section of the people of the society to gather for business and welfare. It will be a website and app base platform to conjugate people respective towards their interest in the agro based products. Our headline of the project shows that it is related to milk. It will actually cover milk related periphery. It will ease the doing of business in this certain section. As there is a 6-million-ton shortage in production of milk per year in Bangladesh, our goal would be to suffice it by accelerating the process with our platform.
 The intended audience would be the mass people who will be buying milk and domestic related products. The businesses who need tons of milk for their production, the farmers who need cattle feed and anyone who needs a vet for their pets and animals and lastly the investor who wants to invest in farms and share profit.
 
