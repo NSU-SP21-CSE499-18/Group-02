@@ -6,7 +6,7 @@
 
                      
    <p align="center">
-  <img width="460" height="300" src=https://seeklogo.com//460/300">
+  <img width="460" height="300" src=https://seeklogo.com/images/N/north-south-university-logo-0CA3A4611D-seeklogo.com.png/460/300">
 </p>
 
 
