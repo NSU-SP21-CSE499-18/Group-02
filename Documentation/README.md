@@ -95,7 +95,8 @@ For Mobile App: Dart, Flutter, Firebase.
 4. One of our important goal was to change the dynamics of production cycle of milk in our country. We can enhance the production and help our country making it rich. 
  
  PLANS FOR MONETIZATION
-  We will mainly follow two types of monetization strategy,
+     
+   We will mainly follow two types of monetization strategy,
   
   Freemium: The freemium strategy is considered to be the most effective way to monetize this website and app. This website and app will be provided to the users as a freemium version, and it will be completely free to use. We are going to make the money by taking some commission from the farm sharing user from both sides. There will be advertisement as well. 
   
