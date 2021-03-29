@@ -1,10 +1,14 @@
 # Group-02
 
 **project proposal**  
-![image](https://user-images.githubusercontent.com/44206343/112883415-15f72000-90f0-11eb-8ff9-0b2c62042c0b.png)
+                     
+                     
+                     ![image](https://user-images.githubusercontent.com/44206343/112883415-15f72000-90f0-11eb-8ff9-0b2c62042c0b.png)
+                     
+                     
 
 
-North South University Department of Electrical & Computer Engineering
+                                         North South University Department of Electrical & Computer Engineering
 
 
 
