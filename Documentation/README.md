@@ -5,9 +5,11 @@
 
 
                      
-                     
+   <p align="center">
+  <img width="460" height="300" src=https://user-images.githubusercontent.com/44206343/112883415-15f72000-90f0-11eb-8ff9-0b2c62042c0b.png/460/300">
+</p>
 
-------------------------![image](https://user-images.githubusercontent.com/44206343/112883415-15f72000-90f0-11eb-8ff9-0b2c62042c0b.png)
+
                      
                      
  North South University Department of Electrical & Computer Engineering
