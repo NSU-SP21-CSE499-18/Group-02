@@ -156,7 +156,7 @@ The web and mobile application has some restrictions in its usability. A custome
 
 **References**
 
-1. &quot;Django documentation | Django documentation | Django.&quot; https://docs.djangoproject.com/en/3.1/ (accessed Mar. 10, 2021).
+1. &quot;CSS documentation |CSS documentation | CSS.&quot; https://devdocs.io/css/(accessed Mar. 22, 2021).
 
 2. M. O. contributors Jacob Thornton, and Bootstrap, &quot; Introduction.&quot; https://getbootstrap.com/docs/4.0/getting-started/introduction/ (accessed Mar. 10, 2021).
 
