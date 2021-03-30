@@ -82,6 +82,8 @@ Below are the tentative features,
 5.  Milk product is another feature for the user of this website from which he or she can order their expected product. The farms can put their dairy products for selling as well over here. There would be some feature like which farm product, product review, price and availability.
 6. Animal doctor would be another feature where it would have some sub feature to ensure the safety of the animals. It would have sub features like level, rating, review, photo, certified, experience, available time, service charge, service providing area etc.
 7. Cow food seller is another feature under which there would be some sub feature like level, rating, review, photo, food photo, food price, food expire date, food supply area etc.
+
+
 TOOLS & TECHNOLOGY
 
 For Website: HTML, CSS, JS, React, Node Js. 
