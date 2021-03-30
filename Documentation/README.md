@@ -109,7 +109,7 @@ Below are the tentative features,
   
  **Premium**: 
  
-  Through premium strategy the user can get the reach of most of the people. It will be like linked in strategy. If you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then. 
+  Through premium strategy the user can get the reach of most of the people. It will be like linked in strategy. If you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then.   
   
   # **Software Requirements Specification**
 
