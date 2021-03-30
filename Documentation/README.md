@@ -612,6 +612,39 @@ It is also possible to return false from the callback() function. Avoid doing th
 ![CSE499A-Use-Case-Diagram](https://user-images.githubusercontent.com/44206343/112946705-a9177080-9157-11eb-9d7a-39981e4e4728.png)
 
 
+**Date/Location:** 17/03/2021
+
+**Attendees:** shirajul islam (SI), Shahed Ahmed(SA), 
+          Riaz Rahman Rafi (RR)               
+
+**Start Time:** 10.00pm 
+
+**End Time:** 10.40pm
+
+**Decisions**
+========= 
+* We choose Web and fluttee as our technology
+* We choose react as the framework
+
+**Actions**
+======= 
+* i. Research on coding standards 
+* ii. Research on  documentation tool
+
+ |Action|Allocated team member|Deadline |  
+|:------|:-------------------:|:--------|                          
+| Action-i | SI, RR  |27/03/2021 |
+| Action-ii| SA, SI |27/03/2021 |
+
+
+ 
+
+ 	     
+
+
+
+
+
 
 
 
