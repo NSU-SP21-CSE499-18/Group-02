@@ -161,7 +161,7 @@ The web and mobile application has some restrictions in its usability. A custome
 
 1. &quot;CSS documentation |CSS documentation | CSS.&quot; https://devdocs.io/css/(accessed Mar. 22, 2021).
 
-2. M. O. contributors Jacob Thornton, and Bootstrap, &quot; Introduction.&quot; https://getbootstrap.com/docs/4.0/getting-started/introduction/ (accessed Mar. 10, 2021).
+2. &quot;REACT documentation |React documentation | REACT.&quot;https://reactjs.org/docs/getting-started.html/(accessed Mar. 22, 2021).
 
 3. &quot;MySQL : MySQL Documentation.&quot; https://dev.mysql.com/doc/ (accessed Mar. 10, 2021).
 
