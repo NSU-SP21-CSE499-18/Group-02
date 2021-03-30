@@ -650,7 +650,7 @@ It is also possible to return false from the callback() function. Avoid doing th
 **Decisions**
 ========= 
 * We select a coding standard for our project (a sample is uploaded in Github documentation)
-* “Sphinx” was decided as our documentation tool
+* Github was decided as our documentation tool
 
 **Actions**
 ======= 
