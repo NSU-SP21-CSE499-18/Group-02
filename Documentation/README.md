@@ -27,22 +27,22 @@ Course No: CSE 499
 
 Sec: 18 
 
-Faculty: Shaikh Shawon Arefin Shimon (Sas3)
+**Faculty**: Shaikh Shawon Arefin Shimon (Sas3)
 
-
+**MEMBER-1**
 Riaz Rahman Rafi
 
 1620590042
 
 
 riaz.rafi@northsouth.edu
-
+**MEMBER-2**
 Md, Shirajul Islam Shadhin
 
 1620701042
 
 shirajul.shadhin@northsouth.edu
-
+**MEMBER-3**
 Shahed Ahmed
 
 1420308642
