@@ -4,14 +4,13 @@
 
 
 
-                     
-<!-- Alignment options!!!!! --> <img align="left" width="100" height="100" ![image](https://user-images.githubusercontent.com/44206343/112887928-90766e80-90f5-11eb-9551-1f44ae3118cc.png)
+           <img align="left" width="100" height="100" ![image](https://user-images.githubusercontent.com/44206343/112887928-90766e80-90f5-11eb-9551-1f44ae3118cc.png)
 
 
 
                      
                      
- North South University Department of Electrical & Computer Engineering
+                                               North South University Department of Electrical & Computer Engineering
 
 
 
