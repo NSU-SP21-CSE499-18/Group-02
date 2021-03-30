@@ -10,7 +10,7 @@
 
                      
                      
-#                                           North South University Department of Electrical & Computer Engineering
+*                                          North South University Department of Electrical & Computer Engineering
 
 
 
