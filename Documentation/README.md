@@ -399,3 +399,33 @@ As a user, I need a FAQ section so that I can get my desired answers regarding t
 | User | A customer visiting the page |
 | Wish | A desirable level of achievement |
 
+## Documentation Tool
+ 
+### JAVASCRIPT- JSDoc
+
+✨Installation: If you have windows and are running VS Code this is the step by step to getting JSDoc to work.
+
+   VS Code will now provide a JSDoc comment template for JavaScript and TypeScript functions when you type /**: 
+
+Follow the steps: 👍  [Auto JSDoc comment Tutorial](https://code.visualstudio.com/updates/v1_10?fbclid=IwAR154f_HctfNeOAHptI18kFoRImho3GWwOwyJkncgm9iwkH3NfQHKAMGk8s#_auto-jsdoc-comments)
+
+## ✔Using JSDoc:
+Follow the steps showed in the YouTube Video below to have an idea about how to generate documentation from Java script source codes using “JSDoc” documentation tool : [Generating Documentation Tutorial](https://youtu.be/icwJYT-Ilpw) 👍 
+
+ 🖱🖱Different Tags Tutorial of JSDoc : [JSDoc Document](https://jsdoc.app/)
+
+ 🖱🖱Tags Tutorial of JSDoc   :  [JSDoc Wikipedia](https://en.wikipedia.org/wiki/JSDoc)
+
+## 💻Source Code-: 
+
+![Source_Code](https://github.com/CSE327-Project-School-Management-System/School-Management-System/blob/main/Diagrams/JsDoc.png)
+
+
+ 
+For more features about JSDoc  : [Details](https://jsdoc.app/about-getting-started.html)
+
+
+## ✨✨HTML Documentation
+
+![HTML Documentation](https://github.com/CSE327-Project-School-Management-System/School-Management-System/blob/main/Diagrams/HTML%20Documentation.png)
+
