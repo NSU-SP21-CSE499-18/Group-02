@@ -30,6 +30,8 @@ Sec: 18
 **Faculty**: Shaikh Shawon Arefin Shimon (Sas3)
 
 **MEMBER-1**
+
+
 Riaz Rahman Rafi
 
 1620590042
@@ -37,12 +39,16 @@ Riaz Rahman Rafi
 
 riaz.rafi@northsouth.edu
 **MEMBER-2**
+
+
 Md, Shirajul Islam Shadhin
 
 1620701042
 
 shirajul.shadhin@northsouth.edu
 **MEMBER-3**
+
+
 Shahed Ahmed
 
 1420308642
