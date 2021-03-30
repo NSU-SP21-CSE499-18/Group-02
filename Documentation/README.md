@@ -63,7 +63,7 @@ Milk Basket is a startup-based idea which is a platform for different section of
 The intended audience would be the mass people who will be buying milk and domestic related products. The businesses who need tons of milk for their production, the farmers who need cattle feed and anyone who needs a vet for their pets and animals and lastly the investor who wants to invest in farms and share profit.
 
 
-**PROPOSED FEATURES 
+**PROPOSED FEATURES**
 
 Below are the tentative features, 
 1. There are many features to implement in this project. As it is a milk related platform and our goal is to increase the production level of milk so we have introduced several features over here like cow farm, normal user, bulk user, farm sharing, milk product, animal doctor, cow food seller. 
@@ -84,15 +84,15 @@ Below are the tentative features,
 7. Cow food seller is another feature under which there would be some sub feature like level, rating, review, photo, food photo, food price, food expire date, food supply area etc.
 
 
-**TOOLS & TECHNOLOGY
+**TOOLS & TECHNOLOGY**
 
-*For Website: HTML, CSS, JS, React, Node Js. 
+**For Website**: HTML, CSS, JS, React, Node Js. 
 
-*For Mobile App: Dart, Flutter, Firebase.
+**For Mobile App**: Dart, Flutter, Firebase.
 
 
 
- **SOCIAL BENEFITS
+ **SOCIAL BENEFITS**
 
 1. Making ease of doing business in this area by going digital.
 
@@ -100,14 +100,14 @@ Below are the tentative features,
 3. We can change the socio-economic aspect of our society by adding the idea of farm sharing which can help in increasing the business.
 4. One of our important goal was to change the dynamics of production cycle of milk in our country. We can enhance the production and help our country making it rich. 
  
- **PLANS FOR MONETIZATION
+ **PLANS FOR MONETIZATION**
      
    We will mainly follow two types of monetization strategy,
   
-  **Freemium: 
+  **Freemium**: 
   The freemium strategy is considered to be the most effective way to monetize this website and app. This website and app will be provided to the users as a freemium version, and it will be completely free to use. We are going to make the money by taking some commission from the farm sharing user from both sides. There will be advertisement as well. 
   
- **Premium: 
+ **Premium**: 
  
   Through premium strategy the user can get the reach of most of the people. It will be like linked in strategy. If you subscribe the premium one then you can reach to the most of the people and there would be no advertisement then. 
   
