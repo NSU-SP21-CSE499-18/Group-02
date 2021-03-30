@@ -660,7 +660,6 @@ It is also possible to return false from the callback() function. Avoid doing th
  |Action|Allocated team member|Deadline |  
 |:------|:-------------------:|:--------|                          
 | Action-i | RR  |21/03/2021 |
-
 | Action-ii|SI,SA, RR  |28/03/2021 |
 
 
