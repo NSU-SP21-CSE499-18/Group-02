@@ -610,7 +610,7 @@ When using event handlers to listen for browser events it’s a common requireme
 It is also possible to return false from the callback() function. Avoid doing this as it also calls the event.stopPropagation() method which prevents the event from bubbling up the DOM tree. This prevents other handlers listening for the same event.
 # **USE CASE DIAGRAM**
 ![CSE499A-Use-Case-Diagram](https://user-images.githubusercontent.com/44206343/112946705-a9177080-9157-11eb-9d7a-39981e4e4728.png)
-# Meeting Minutes
+# Meeting Minutes-1
 **Date/Location:** 17/03/2021
 
 **Attendees:** shirajul islam (SI), Shahed Ahmed(SA), 
@@ -634,6 +634,36 @@ It is also possible to return false from the callback() function. Avoid doing th
 |:------|:-------------------:|:--------|                          
 | Action-i | SI, RR  |27/03/2021 |
 | Action-ii| SA, SI |27/03/2021 |
+
+
+# Meeting Minutes-2
+**Date/Location:** 21/03/2021 
+
+**Attendees:** Jhirajul islam (SI), Shahed Ahmed(SA), 
+          Riaz Rahman Rafi (RR)               
+            
+
+**Start Time:** 12.06 am 
+
+**End Time:** 12.49 am
+
+**Decisions**
+========= 
+* We select a coding standard for our project (a sample is uploaded in Github documentation)
+* “Sphinx” was decided as our documentation tool
+
+**Actions**
+======= 
+* i. Draw use case diagram
+* ii. Gather knowledge about CI-CD pipeline
+
+ |Action|Allocated team member|Deadline |  
+|:------|:-------------------:|:--------|                          
+| Action-i | RR  |21/03/2021 |
+
+| Action-ii|SI,SA, RR  |28/03/2021 |
+
+
 
 
  
