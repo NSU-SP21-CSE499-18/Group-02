@@ -605,4 +605,13 @@ When using event handlers to listen for browser events it’s a common requireme
               };
 
 It is also possible to return false from the callback() function. Avoid doing this as it also calls the event.stopPropagation() method which prevents the event from bubbling up the DOM tree. This prevents other handlers listening for the same event.
+# Database SCHEMA
+![CSE499A-Use-Case-Diagram](https://user-images.githubusercontent.com/44206343/112946705-a9177080-9157-11eb-9d7a-39981e4e4728.png)
+
+
+
+
+
+
+
 
