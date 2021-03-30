@@ -429,3 +429,180 @@ For more features about JSDoc  : [Details](https://jsdoc.app/about-getting-start
 
 ![HTML Documentation](https://github.com/CSE327-Project-School-Management-System/School-Management-System/blob/main/Diagrams/HTML%20Documentation.png)
 
+
+
+## 👌  JAVASCRIPT
+
+
+
+Coding standard are style guidelines for programming. They typically cover:
+
+ •	Naming and declaration rules for variables and functions.
+ 
+ •	Programming practices and principles
+
+Coding standard secure quality:
+
+ •	Improves code readability
+
+ •	Make code maintenance easier
+
+
+## ✨ Naming Conventions
+
+### ✔ Variable Name:
+* 1. All names start with a letter. 
+* 2. Every letter will be in "lower case" . 
+* 3. For multiple word variable the should in “lower_case_with_underscores”.
+* 4. One "var" statement must be used per variable assignment lower case. 
+* 5. No limit to the length of the variable name.
+* 6. Constants (like PI) written in UPPERCASE,
+
+     * *EXAMPLE* 👇
+
+              var bar = false;
+              var a;
+              var first_name = "Nusrat";
+              const PI = 3.141592653589793; 
+
+
+ ## ✔Spaces Around Operators: 
+
+Always put spaces around operators ( = + - * / ), and after commas.
+
+   * *EXAMPLE* 👇
+  
+                 var x = y + z;
+                 var values = ["Mahi", "Sahi", "Fiat"];
+
+ ## ✔Object Methods: 
+
+Methods name should be in lower case & should be end a simple statement with a semicolon.
+
+  * *EXAMPLE* 👇
+    
+           var person = {
+           first_name: "Mohsin",
+           last_name : "Ara",
+           id       : 1829854042,
+           full_name : function() {
+           return this.first_name + " " + this.last_name;
+          }
+        };
+
+
+ ### ✔Classes:
+For creating a class in JavaScript use " class " keyword. In the class you can declare or call any method. You can send parameters to class methods. Through this class you can create objects. 
+
+For constructor method you have to give exact name of the "constructor". Its main use is to initialized object properties.  It is executed automatically when a new object is created  
+
+   * *EXAMPLE:* 👇
+
+            class ClassName {
+                   constructor ()	{...}
+                   method_1 () 	{...}
+                   method_2 () 	{...}
+                   method_3 () 	{...}
+            }
+
+
+
+ ## ✔Arrays:
+* In JavaScript creating an array is the easiest thing. Just declare the type and the name of the array. You don’t need to set the size of the array. Here spaces and line breaks are not important. 
+
+* var array name = [item1, item2, ...];
+
+* For accessing any element, you have to provide the index number and for accessing the full array use array name. 
+
+* pop () and push () methods are very handy and helpful method for the controlling the array.
+
+   * *EXAMPLE:* 👇
+
+                    var fruits = ["Banana", "Orange", "Apple", "Mango"];
+                    fruits.pop();  // Removes the last element ("Mango") from fruits
+
+                    var fruits = ["Banana", "Orange", "Apple", "Mango"];
+                    fruits.push("Kiwi");  //  Adds a new element ("Kiwi") to fruits
+
+
+ ## ✔Switch Statement:
+For performing different actions based on different condition there we use switch case. The syntax of JS switch case is pretty much similar with other programming language. 
+
+  * *EXAMPLE:* 👇
+
+            switch(expression) {
+                 case x:            
+                  break;
+                case y:
+                  break;
+                default:
+             }
+
+For breaking out from the switch block JavaScript use break keyword, like others language. The default keyword specifies the code to run if there is no case match.
+
+
+ ## ✔Indentation and Line Breaks:
+
+Indentation and line breaks add readability to complex statements.
+Tabs should be used for indentation. Even if the entire file is contained in a closure (i.e., an immediately invoked function), the contents of that function should be indented by one tab.
+
+  * *EXAMPLE:* 👇
+
+             ( function ( $ ) {
+                         // Expressions indented
+               function doSomething() {
+                        // Expressions indented
+                }
+            } )( jQuery );
+
+
+ ## ✔Statement Rules:
+
+General rules for simple statements:
+•	Always end a simple statement with a semicolon( ; )
+   * *EXAMPLE:* 👇
+ 
+             var values = ["Volvo", "Saab", "Fiat"];
+                  var person = {
+                   firstName: "John",
+                   lastName: "Doe",
+                   age: 50,
+                   eyeColor: "blue"
+              };
+
+✨General rules for complex (compound) statements:
+•	Put the opening bracket at the end of the first line.
+•	Use one space before the opening bracket.
+•	Put the closing bracket on a new line, without leading spaces.
+•	Do not end a complex statement with a semicolon.
+
+  * *EXAMPLE:* 👇
+
+              function toCelsius(fahrenheit) {
+               return (5 / 9) * (fahrenheit - 32);
+              }
+       💻_*For Loops*_: * *EXAMPLE:* 👇
+
+                  for (i = 0; i < 5; i++) {
+                    x += i;
+                   }
+       💻_*For Conditionals:*_ * *EXAMPLE:* 👇
+
+                 if (time < 20) {
+                   greeting = "Good day";
+                 } 
+                else {
+                   greeting = "Good evening";
+                }
+
+ ## ✔Event Handlers:
+
+When using event handlers to listen for browser events it’s a common requirement to want to cancel the default browser action. This should be done by calling the event.preventDefault() method. 
+   * *EXAMPLE:* 👇
+
+            jQuery('button').click(function (event) {
+                event.preventDefault();
+              };
+
+It is also possible to return false from the callback() function. Avoid doing this as it also calls the event.stopPropagation() method which prevents the event from bubbling up the DOM tree. This prevents other handlers listening for the same event.
+
