@@ -29,11 +29,6 @@ Sec: 18
 
 Faculty: Shaikh Shawon Arefin Shimon (Sas3)
 
-Name
-
-ID
-
-Email
 
 Riaz Rahman Rafi
 
